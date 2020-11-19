@@ -1,0 +1,396 @@
+2020.11.17 18:08:19 INFO  Started: Metals version 0.9.5 in workspace '/home/snad/dev/sources/debugging/fpscala' for client vscode.
+2020.11.17 18:08:20 INFO  time: initialize in 0.97s
+2020.11.17 18:08:20 WARN  Build server is not auto-connectable.
+2020.11.17 18:08:21 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/test/scala/example/HelloSpec.scala
+2020.11.17 18:08:23 INFO  no build target: using presentation compiler with only scala-library
+2020.11.17 18:08:32 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/example/Hello.scala
+2020.11.17 18:08:43 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/Hello.scala
+2020.11.17 18:09:03 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/Hello.scala
+2020.11.17 18:09:17 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.17 18:09:34 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/Hello.scala
+2020.11.17 18:09:49 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.17 18:09:59 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.17 18:10:05 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.17 18:10:36 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.17 18:11:09 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.17 18:11:31 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.17 18:11:50 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.17 18:11:53 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in fpscala.laziness.Stream[<error>]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 132, 132, 148)
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in () => <error>RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 183, 185, 206)
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in fpscala.laziness.Stream[<error>]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 189, 189, 205)
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in fpscala.laziness.Stream[<error>]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 208, 208, 224)
+2020.11.17 18:12:50 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in fpscala.laziness.Stream[<error>]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 269, 269, 285)
+Nov. 17, 2020 6:13:44 P.M. scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 378, count -1, length 403
+Nov. 17, 2020 6:13:44 P.M. scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 378, count -1, length 403
+2020.11.17 18:13:48 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 11:54:53 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+Nov. 19, 2020 11:55:21 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.11.19 12:03:45 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:04:08 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:05:24 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:05:25 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in fpscala.laziness.Stream[<error>]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 553, 553, 569)
+2020.11.19 12:08:34 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in fpscala.laziness.Stream[<error>]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 189, 189, 205)
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in List[<error>]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 205, 205, 219)
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in List[A]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 205, 205, 212)
+2020.11.19 12:09:40 ERROR scalafmt: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala:13: error: case expected but } found
+        }
+        ^
+2020.11.19 12:09:40 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:09:50 ERROR scalafmt: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala:13: error: case expected but } found
+        }
+        ^
+2020.11.19 12:09:50 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:10:45 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in fpscala.laziness.Stream[<error>]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 438, 438, 454)
+2020.11.19 12:12:00 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+Nov. 19, 2020 12:12:05 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]).&&(org.scalameta.`package`.debug(ScalametaParser.this.token))
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]) is false
+where ScalametaParser = scala.meta.internal.parsers.ScalametaParser@775be94d
+where ScalametaParser.this.token = case
+where Token = scala.meta.tokens.Token$@789dd488
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]).&&(org.scalameta.`package`.debug(ScalametaParser.this.token))
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]) is false
+where ScalametaParser = scala.meta.internal.parsers.ScalametaParser@775be94d
+where ScalametaParser.this.token = case
+where Token = scala.meta.tokens.Token$@789dd488
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]).&&(org.scalameta.`package`.debug(ScalametaParser.this.token))
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]) is false
+where ScalametaParser = scala.meta.internal.parsers.ScalametaParser@775be94d
+where ScalametaParser.this.token = case
+where Token = scala.meta.tokens.Token$@789dd488
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$caseClause$1(ScalametaParser.scala:2594)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.caseClause(ScalametaParser.scala:2593)
+	at scala.meta.internal.parsers.ScalametaParser.caseClauses(ScalametaParser.scala:2633)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$24(ScalametaParser.scala:2017)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:536)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrError(ScalametaParser.scala:543)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrNil(ScalametaParser.scala:558)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$23(ScalametaParser.scala:2017)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$1(ScalametaParser.scala:2017)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1868)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1819)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1847)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3723)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3665)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3617)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3513)
+	at scala.meta.internal.parsers.ScalametaParser.localDef(ScalametaParser.scala:4333)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4360)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2590)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2589)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockExpr$2(ScalametaParser.scala:2584)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:536)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockExpr$1(ScalametaParser.scala:2582)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2581)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2419)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:622)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:632)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2397)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2395)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2379)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2359)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$14(ScalametaParser.scala:1992)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$1(ScalametaParser.scala:1992)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1868)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1819)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1847)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3723)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3665)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3617)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3513)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3498)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4291)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4285)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4229)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4284)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4281)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4138)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:536)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4138)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4143)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$traitDef$1(ScalametaParser.scala:3810)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.traitDef(ScalametaParser.scala:3788)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3766)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3758)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4251)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4239)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4229)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4238)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4441)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4447)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4447)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4415)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4398)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4397)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4403)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:137)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:47)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:137)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$232.apply(ScalametaParser.scala:4459)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	... 3 more
+
+2020.11.19 12:12:11 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:12:37 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in fpscala.laziness.Stream[A]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 775, 775, 784)
+something's wrong: no file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala in fpscala.laziness.Stream[A]RangePosition(file:///home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala, 775, 775, 784)
+2020.11.19 12:17:02 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:17:09 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:17:15 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:17:21 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:35:21 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+Nov. 19, 2020 12:35:30 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]).&&(org.scalameta.`package`.debug(ScalametaParser.this.token))
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]) is false
+where ScalametaParser = scala.meta.internal.parsers.ScalametaParser@3234b5c
+where ScalametaParser.this.token = case
+where Token = scala.meta.tokens.Token$@789dd488
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]).&&(org.scalameta.`package`.debug(ScalametaParser.this.token))
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]) is false
+where ScalametaParser = scala.meta.internal.parsers.ScalametaParser@3234b5c
+where ScalametaParser.this.token = case
+where Token = scala.meta.tokens.Token$@789dd488
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]).&&(org.scalameta.`package`.debug(ScalametaParser.this.token))
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]) is false
+where ScalametaParser = scala.meta.internal.parsers.ScalametaParser@3234b5c
+where ScalametaParser.this.token = case
+where Token = scala.meta.tokens.Token$@789dd488
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$caseClause$1(ScalametaParser.scala:2594)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.caseClause(ScalametaParser.scala:2593)
+	at scala.meta.internal.parsers.ScalametaParser.caseClauses(ScalametaParser.scala:2633)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$24(ScalametaParser.scala:2017)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:536)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrError(ScalametaParser.scala:543)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrNil(ScalametaParser.scala:558)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$23(ScalametaParser.scala:2017)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$1(ScalametaParser.scala:2017)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1868)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1819)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1847)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3723)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3665)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3617)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3513)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3498)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4291)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4285)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4229)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4284)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4281)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4138)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:536)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4138)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4143)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$traitDef$1(ScalametaParser.scala:3810)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.traitDef(ScalametaParser.scala:3788)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3766)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3758)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4251)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4239)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4229)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4238)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4441)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4447)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4447)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4415)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4398)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4397)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4403)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:137)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:47)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:137)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$232.apply(ScalametaParser.scala:4459)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	... 3 more
+
+Nov. 19, 2020 12:35:30 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]).&&(org.scalameta.`package`.debug(ScalametaParser.this.token))
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]) is false
+where ScalametaParser = scala.meta.internal.parsers.ScalametaParser@5526c2df
+where ScalametaParser.this.token = case
+where Token = scala.meta.tokens.Token$@789dd488
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]).&&(org.scalameta.`package`.debug(ScalametaParser.this.token))
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]) is false
+where ScalametaParser = scala.meta.internal.parsers.ScalametaParser@5526c2df
+where ScalametaParser.this.token = case
+where Token = scala.meta.tokens.Token$@789dd488
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]).&&(org.scalameta.`package`.debug(ScalametaParser.this.token))
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.tokens.Token](ScalametaParser.this.token)(scala.meta.tokens.Token.classifiable[scala.meta.tokens.Token]).isNot[scala.meta.tokens.Token.KwCase](Token.this.KwCase.classifier[scala.meta.tokens.Token]) is false
+where ScalametaParser = scala.meta.internal.parsers.ScalametaParser@5526c2df
+where ScalametaParser.this.token = case
+where Token = scala.meta.tokens.Token$@789dd488
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$caseClause$1(ScalametaParser.scala:2594)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.caseClause(ScalametaParser.scala:2593)
+	at scala.meta.internal.parsers.ScalametaParser.caseClauses(ScalametaParser.scala:2633)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$24(ScalametaParser.scala:2017)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:536)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrError(ScalametaParser.scala:543)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrNil(ScalametaParser.scala:558)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$23(ScalametaParser.scala:2017)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$1(ScalametaParser.scala:2017)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1868)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1819)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1847)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3723)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3665)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3617)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3513)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3498)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4291)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4285)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4229)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4284)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4281)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4138)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:536)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4138)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4143)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$traitDef$1(ScalametaParser.scala:3810)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.traitDef(ScalametaParser.scala:3788)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3766)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3758)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4251)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4239)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4229)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4238)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4441)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4447)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4447)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4415)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4398)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:613)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:629)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4397)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4403)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:137)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:47)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:137)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$232.apply(ScalametaParser.scala:4459)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	... 3 more
+
+2020.11.19 12:35:34 ERROR scalafmt: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala:31: error: => expected but case found
+    case _ => empty
+    ^
+2020.11.19 12:35:34 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:36:10 ERROR scalafmt: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala:30: error: ( expected but identifier found
+      case Cons(h, t) => if n > 1 cons(h(), t())
+                            ^
+2020.11.19 12:36:10 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:36:32 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:36:55 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:37:32 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:37:43 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:38:46 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:39:04 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:39:28 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:39:47 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala
+2020.11.19 12:39:52 WARN  no build target for: /home/snad/dev/sources/debugging/fpscala/src/main/scala/fpscala/laziness/Stream.scala

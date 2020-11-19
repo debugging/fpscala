@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "search.exclude": {
+      ".metals/": true
+    },
+    "files.watcherExclude": {
+      "**/target": true
+    }
+  }
